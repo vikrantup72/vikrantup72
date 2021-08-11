@@ -17,9 +17,10 @@ Hi, I'm Vikrant, a passionate self-taught FrontEnd And Backend developer from In
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](github-readme-stats.vercel.app)*
 
-<!-- 
-<a href="https://github.com/anuraghazra/github-readme-stats"> -->
+
+<!--<a href="https://github.com/anuraghazra/github-readme-stats"> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikrantup72&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Vikrant's github stats" />
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantup72&layout=compact&theme=material-palenight" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vikrantup72&theme=dark&hide_border=true)](https://git.io/streak-stats)
