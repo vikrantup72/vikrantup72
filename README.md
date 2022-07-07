@@ -1,4 +1,4 @@
-### Hi there, I'm [Shivam!](https://vikrantup72.netlify.app/) 👋
+### Hi there, I'm [Shivam Upadhyay!](https://vikrantup72.netlify.app/) 👋
 
 Hi, I'm Vikrant, a passionate self-taught FrontEnd And Backend developer from India.
 
