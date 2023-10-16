@@ -1,6 +1,6 @@
 ### Hi there, I'm [Vikrant!](https://vikrantup72.netlify.app/) 👋
 
-Hi, I'm Vikrant Updadhyay, A Passionate Software Developer,Entrepreneur and Coder. I love to play with coding, building software, and focusing on learning new technologies.
+A Passionate Software Developer,Entrepreneur and Coder. I love to play with coding, building software, and focusing on learning new technologies.
 
 <!-- - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) -->
 - 💬 Ask me about anything [here](https://www.instagram.com/vikrantup72/)
